@@ -1,0 +1,19 @@
+{
+    "openai:gpt-4o-mini": {
+        "prompt_tokens": 0.150,
+        "completion_tokens": 0.600 
+    },
+    "openai:gpt-4o": {
+        "prompt_tokens": 2.50,
+        "completion_tokens": 10.00 
+    },
+    "anthropic:claude-3-5-sonnet-20241022": {
+        "prompt_tokens": 3.00,
+        "completion_tokens": 15.00
+    },
+    "groq:llama3-groq-70b-8192-tool-use-preview": {
+        "prompt_tokens": 0.89,
+        "completion_tokens": 0.89
+    }
+
+}

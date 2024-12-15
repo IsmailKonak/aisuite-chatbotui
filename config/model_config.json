@@ -1,0 +1,41 @@
+{
+    "models": [
+        {
+            "name": "OpenAI GPT-4o",
+            "api_key": "Your API Key Here",
+            "id": "openai:gpt-4o",
+            "local":false
+        },
+        {
+            "name": "OpenAI GPT-4o Mini",
+            "api_key": "Your API Key Here",
+            "id": "openai:gpt-4o-mini",
+            "local":false
+        },
+        {
+            "name": "Anthropic Claude-3.5 Sonnet",
+            "api_key": "Your API Key Here",
+            "id": "anthropic:claude-3-5-sonnet-20241022",
+            "local":false
+        },
+        {
+            "name": "Groq Llama3.3 70B Versatile",
+            "api_key": "Your API Key Here",
+            "id": "groq:llama-3.3-70b-versatile",
+            "local":false
+        },
+        {
+            "name": "Ollama Llama3.2 3B",
+            "api_key": "None",
+            "id": "ollama:llama3.2:3b",
+            "local":true
+        },
+        {
+            "name": "Ollama Llama3.2 1B",
+            "api_key": "None",
+            "id": "ollama:llama3.2:1b",
+            "local":true
+        }
+        
+    ]
+}
