@@ -107,7 +107,7 @@ Türkçe README için, [buraya tıklayın](https://github.com/IsmailKonak/aisuit
    ```bash
    ollama pull <model_id>
    ```
-   - Replace `<model_id>` with the specific ID of the model you want to use (e.g., `ollama:llama3.2:3b`).
+   - Replace `<model_id>` with the specific ID of the model you want to use (e.g., `llama3.2:3b`).
 
 3. Once the model is installed, update the `model_config.json` with:
    - **Provider:** Use `ollama` as the provider.
