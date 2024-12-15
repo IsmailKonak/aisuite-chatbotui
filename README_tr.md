@@ -105,7 +105,7 @@ Bu proje, kullanıcıların farklı yapay zeka modellerini tek bir arayüzde kol
    ```bash
    ollama pull <model_id>
    ```
-   - `<model_id>` alanını kullanmak istediğiniz modelin kimliğiyle değiştirin (ör. `ollama:llama3.2:3b`).
+   - `<model_id>` alanını kullanmak istediğiniz modelin kimliğiyle değiştirin (ör. `llama3.2:3b`).
 
 3. Model indirildikten sonra, `model_config.json` dosyasını şu şekilde güncelleyin:
    - **Sağlayıcı:** `ollama` olarak ayarlayın.
